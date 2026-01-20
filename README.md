@@ -1,16 +1,40 @@
-# expense_tracker
+# Flutter Expense Tracker
 
-A new Flutter project.
+A simple Flutter application to track daily expenses with categories and a visual summary.
 
-## Getting Started
+This project was built as part of a Flutter learning course to understand core Flutter concepts through a real-world example.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Add and delete expenses
+- Categorize expenses (Work, Leisure, etc.)
+- Date picker for selecting expense date
+- Visual chart showing expense distribution
+- Responsive layout for different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Language & Framework
+- Flutter (Dart)
+
+---
+
+## Key Concepts Learned
+- Widget composition (Row, Column, Expanded, Spacer)
+- State management using `StatefulWidget`
+- Handling user input with `TextField` and controllers
+- Modal bottom sheets
+- Passing data and callbacks between widgets
+- Basic responsive design using `MediaQuery`
+
+---
+
+## Status
+Completed and working as expected.
+
+---
+
+## Notes
+This project focuses on learning Flutter fundamentals and UI/state handling.  
+Further improvements such as persistent storage can be added later.
